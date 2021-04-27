@@ -23,7 +23,7 @@ namespace Practica08.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult ProductosServicios()
         {
             return View();
         }
