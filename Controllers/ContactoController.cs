@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Practica08.Controllers;
 using Practica08.Models;
 
-namespace Practica08.Controllers{
+namespace Practica08.Controllers
+{
     public class ContactoController : Controller{
        private readonly ILogger<ContactoController> _logger;
 
